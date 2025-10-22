@@ -823,7 +823,7 @@ void loop() {
             </div>
             <div className="text-center md:text-right">
               <p className="text-slate-300 font-medium mb-2">
-                Desenvolvido por <span className="text-emerald-400">Desembargador Julio Campos Machado</span>
+                Desenvolvido por <span className="text-emerald-400">Julio Campos Machado</span>
               </p>
               <p className="text-slate-400 text-sm mb-2">DGold Systems • 2025</p>
               <p className="text-xs text-slate-500">
